@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P13-TaskManagerWear</string>
+    <string name="notification_title">Reminder</string>
+    <string name="basic_notify_msg">You have tasks to do</string>
+    <string-array name="voice_choices">
+        <item>OK</item>
+        <item>Great</item>
+        <item>Im not sure</item>
+    </string-array>
+</resources>
